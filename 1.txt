@@ -1,1 +1,5 @@
+
 Hola
+          CONFLICTO SOLUCIONADO
+Adios
+>>>>>>> v0.2
