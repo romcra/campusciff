@@ -76,18 +76,18 @@
 
 **git merge v0.2**
 
-![Mergedfallido](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto.png)
+![Mergedfallido](https://github.com/romcra/campusciff/blob/master/Capturas/foto.png)
 
 ## 4
 
 **git branch --merged**
 **git branch --no-merge**
 
-![Mergedfallido](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto 1.png)
+![Mergedfallido](https://github.com/romcra/campusciff/blob/master/Capturas/foto 1.png)
 ## 5
 
 **vim 1.txt**
-![Mergedfallido](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto 2.png)
+![Mergedfallido](https://github.com/romcra/campusciff/blob/master/Capturas/foto 2.png)
 
 **git add 1.txt**
 
@@ -101,7 +101,7 @@
 ## 2
 **git list** Podemos ver todas las etiquetas con sus comitts
 
-![Etiquetas commits](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto 3.png)
+![Etiquetas commits](https://github.com/romcra/campusciff/blob/master/Capturas/foto 3.png)
 
 ## 3
 
@@ -110,12 +110,12 @@
 # Ejercicio 2.10
 
 ## 1
-![Foto usuario](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto 4.png)
+![Foto usuario](https://github.com/romcra/campusciff/blob/master/Capturas/foto 4.png)
 ## 2
 ![doble factor de autentificación en vuestra
-cuenta de GitHub](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto a.png)
+cuenta de GitHub](https://github.com/romcra/campusciff/blob/master/Capturas/foto a.png)
 ## 3
-![Clave plúbica](/Users/rodrigomarcoscarvajal/trabajo/campusciff/foto 6.png)
+![Clave plúbica](https://github.com/romcra/campusciff/blob/master/Capturas/foto 6.png)
 
 # Ejercicio 2.11
 
