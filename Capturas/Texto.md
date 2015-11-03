@@ -1,0 +1,1 @@
+Esta carpeta contiene las capturas de pantalla que se presentan en el README.md
