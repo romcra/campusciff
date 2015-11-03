@@ -176,7 +176,7 @@ campusciff-marquezjr.github.io.git**
 - Subo los cambios al repositorio remoto **git push origin rama**
 
 - Realizo el pull request
-![Pull request](/Users/rodrigomarcoscarvajal/trabajo/campusciff/imagen.png)
+![Pull request]https://github.com/romcra/campusciff/blob/master/Capturas/imagen.png)
 
 - Realizo lo mismo para el repositorio campusciff-alfonsops.github.io y hago la pull request.
-![Pull request](/Users/rodrigomarcoscarvajal/trabajo/campusciff/imagen2.png)
+![Pull request]https://github.com/romcra/campusciff/blob/master/Capturas/imagen2.png)
