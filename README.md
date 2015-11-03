@@ -10,7 +10,8 @@
 - **mkdir privada** Comando para crear la carpeta privada
 
 ## 3
-- Hay que tener en cuenta que los directorios vacíos no son tenidos en cuenta por Git:
+- Hay que tener en cuenta que los directorios vacíos no se  tienen en cuenta por Git:
+
 **mv privado.txt privada** Movemos el archivo a la carpeta para que no este vacia y de esta forma pueda ser reconocida con git status también la carpeta, y no solo el archivo. Ignoramos el archivo y la carpeta a la vez usando el comando **privada >.gitignore**
 
 # Ejercicio 2.5
@@ -128,9 +129,9 @@ He hecho todos los pasos como se puede comprobar en GitHub
 | Borja Moreno | [Borja Moreno](https://github.com/bmpozo)
 | Juan Jose | [Juan Jose](https://github.com/jjdiazl)
 | Ramon Márquez | [Ramon Márquez](https://github.com/marquezjr)
-| Carlos Sainz | [Carlos Sainz](https://github.com/Carsaiz)
-| Francisco Rivas | [Carlos Sainz](https://github.com/Carsaiz)
-| Marcos  | [Carlos Sainz](https://github.com/Carsaiz)
+| Carlos Saiz | [Carlos Saiz](https://github.com/Carsaiz)
+| Francisco Rivas | [Francisco Rivas](https://github.com/jrivax)
+| Marcos Cortina  |[Marcos Cortina](https://github.com/marcoscortina)
 
 # Ejercicio 2.13
 
